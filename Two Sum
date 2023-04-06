@@ -1,0 +1,9 @@
+public class Solution {
+    public int[] TwoSum(int[] nums, int target) {
+       for( int i = 0; i < n; i ++)
+       {
+         nums1[m-1] = nums2[i];
+       }
+       Array.Sort(nums1);
+    }
+}
