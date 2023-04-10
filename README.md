@@ -9,6 +9,7 @@ Leetcode practice
 | 5   | [Longest Palindromic Substring](https://github.com/sujingxian/Leetcode/blob/main/5.%20Longest%20Palindromic%20Substring.cs)     |
 | 6   | [Zigzag Conversion](https://github.com/sujingxian/Leetcode/blob/main/6.%20Zigzag%20Conversion.cs)     |
 | 7   | [Reverse Integer](https://github.com/sujingxian/Leetcode/blob/main/7.%20Reverse%20Integer.cs)    |
+| 8   | [String to Integer (atoi)](https://github.com/sujingxian/Leetcode/blob/main/8.%20String%20to%20Integer%20(atoi).cs)   |
 | 9   | [Palindrome Number](https://github.com/sujingxian/Leetcode/blob/main/9.%20Palindrome%20Number.cs)     |
 | 13   | [Roman to Integer](https://github.com/sujingxian/Leetcode/blob/main/13.%20Roman%20to%20Integer.cs)     |
 | 36   | [Valid Sudoku](https://github.com/sujingxian/Leetcode/blob/main/36.%20Valid%20Sudoku.cs)     |
