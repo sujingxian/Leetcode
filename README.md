@@ -16,6 +16,7 @@ Leetcode practice
 | 12  | [Integer to Roman](https://github.com/sujingxian/Leetcode/blob/main/12.%20Integer%20to%20Roman.cs)    |
 | 13   | [Roman to Integer](https://github.com/sujingxian/Leetcode/blob/main/13.%20Roman%20to%20Integer.cs)     |
 | 14   | [Longest Common Prefix](https://github.com/sujingxian/Leetcode/blob/main/14.%20Longest%20Common%20Prefix.cs)    |
+| 15   | [3Sum](https://github.com/sujingxian/Leetcode/blob/main/15.%203Sum.cs)   |  
 | 36   | [Valid Sudoku](https://github.com/sujingxian/Leetcode/blob/main/36.%20Valid%20Sudoku.cs)     |
 | 53   | [Maximum Subarray](https://github.com/sujingxian/Leetcode/blob/main/53.%20Maximum%20Subarray.cs)     |
 | 74   | [Search a 2D Matrix](https://github.com/sujingxian/Leetcode/blob/main/74.%20Search%20a%202D%20Matrix.cs)     |
