@@ -23,6 +23,7 @@ Leetcode practice
 | 21   | [Merge Two Sorted Lists](https://github.com/sujingxian/Leetcode/blob/main/21.%20Merge%20Two%20Sorted%20Lists.cs)   |
 | 26   | [Remove Duplicates from Sorted Array](https://github.com/sujingxian/Leetcode/blob/main/26.%20Remove%20Duplicates%20from%20Sorted%20Array.cs)    |
 | 27   | [Remove Element](https://github.com/sujingxian/Leetcode/blob/main/27.%20Remove%20Element.cs)   |
+| 28   | [Find the Index of The First Occurence in a String](https://github.com/sujingxian/Leetcode/blob/main/28.%20Find%20the%20Index%20of%20the%20First%20Occurrence%20in%20a%20String.cs)   |
 | 36   | [Valid Sudoku](https://github.com/sujingxian/Leetcode/blob/main/36.%20Valid%20Sudoku.cs)     |
 | 53   | [Maximum Subarray](https://github.com/sujingxian/Leetcode/blob/main/53.%20Maximum%20Subarray.cs)     |
 | 74   | [Search a 2D Matrix](https://github.com/sujingxian/Leetcode/blob/main/74.%20Search%20a%202D%20Matrix.cs)     |
