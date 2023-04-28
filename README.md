@@ -31,6 +31,7 @@ Leetcode practice
 | 80   | [Remove Duplicates from Sorted ArrayII](https://github.com/sujingxian/Leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cs)   |
 | 88   | [Merge Sorted Array](https://github.com/sujingxian/Leetcode/blob/main/88.%20Merge%20Sorted%20Array.cs)     |
 | 118   | [Pascal's Triangle](https://github.com/sujingxian/Leetcode/blob/main/118.%20Pascal's%20Triangle.cs)     |
+| 169   | [Majority Element](https://github.com/sujingxian/Leetcode/blob/main/169.%20Majority%20Element.cs)   |
 | 121   | [Best Time to Buy and Sell Stock](https://github.com/sujingxian/Leetcode/blob/main/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.cs)     |
 | 217   | [Contains Duplicate](https://github.com/sujingxian/Leetcode/blob/main/217.%20Contains%20Duplicate.cs)     |
 | 350   | [Intersection of Two Arrays II](https://github.com/sujingxian/Leetcode/blob/main/350.%20Intersection%20of%20Two%20Arrays%20II.cs)     |
