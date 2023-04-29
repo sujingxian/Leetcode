@@ -27,6 +27,7 @@ Leetcode practice
 | 35   | [Search Insert Position](https://github.com/sujingxian/Leetcode/blob/main/35.%20Search%20Insert%20Position.cs)   |
 | 36   | [Valid Sudoku](https://github.com/sujingxian/Leetcode/blob/main/36.%20Valid%20Sudoku.cs)     |
 | 53   | [Maximum Subarray](https://github.com/sujingxian/Leetcode/blob/main/53.%20Maximum%20Subarray.cs)     |
+| 55   | [Jump Game](https://github.com/sujingxian/Leetcode/blob/main/55.%20Jump%20Game.cs)    |
 | 74   | [Search a 2D Matrix](https://github.com/sujingxian/Leetcode/blob/main/74.%20Search%20a%202D%20Matrix.cs)     |
 | 80   | [Remove Duplicates from Sorted ArrayII](https://github.com/sujingxian/Leetcode/blob/main/80.%20Remove%20Duplicates%20from%20Sorted%20Array%20II.cs)   |
 | 88   | [Merge Sorted Array](https://github.com/sujingxian/Leetcode/blob/main/88.%20Merge%20Sorted%20Array.cs)     |
